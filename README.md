@@ -1,1 +1,2 @@
-# sm-1-golang-3660
+# shipped-buildpack-template-golang
+Go - Template Buildpack
